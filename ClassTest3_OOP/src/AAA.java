@@ -11,6 +11,7 @@ public class AAA {
 	
 	public void output() {
 		System.out.println(num+ ","+ tel);
+		System.out.println();
 	}
 	
 }
